@@ -1,0 +1,31 @@
+Log level set to INFO
+[INFO   ] inputDropoutRate: 0.2, hiddenDropoutRate: 0.5
+[INFO   ] reading image filename './datasets/train-images-idx3-ubyte' and label filename: './datasets/train-labels-idx1-ubyte
+[INFO   ] read 60000 MNIST images.
+[INFO   ] reading image filename './datasets/t10k-images-idx3-ubyte' and label filename: './datasets/t10k-labels-idx1-ubyte
+[INFO   ] read 10000 MNIST images.
+[INFO   ] Using an SOFTMAX loss function.
+[INFO   ] Starting minibatch gradient descent!
+[INFO   ] minibatch (16), mnist, softmax, lr: 0.001, mu:0.9
+[INFO   ] calculating initial error and accuracy
+[INFO   ] bestError error accuracy testingError testingAccuracy
+33.318421449829934
+33.791224489795916
+ITERATION  2.3025850929941556 2.3025850929941556    9.87167 2.3025850929940703   9.80000
+[INFO   ] Learning rate: 9.75E-4
+  1.3913367931006366 1.3913367931006366   50.85833 1.3298755717189372  52.97000
+[INFO   ] Learning rate: 9.50625E-4
+  1.3365715551052546 1.3365715551052546   52.95833 1.275131018952698  55.31000
+[INFO   ] Learning rate: 9.26859375E-4
+  1.289624388623195 1.289624388623195   54.14167 1.2494135582791994  55.98000
+[INFO   ] Learning rate: 9.036878906249999E-4
+  1.2725729887971853 1.2725729887971853   55.01500 1.2084935717420864  56.88000
+[INFO   ] Learning rate: 8.810956933593748E-4
+  1.2633650980508506 1.2633650980508506   55.31000 1.211360386194583  56.13000
+[INFO   ] Learning rate: 8.590683010253904E-4
+  1.2361087837484888 1.2361087837484888   55.71833 1.1768942289493047  58.09000
+[INFO   ] Learning rate: 8.375915934997557E-4
+  1.2121421233158047 1.2121421233158047   57.55667 1.1582805665592149  58.79000
+[INFO   ] Learning rate: 8.166518036622618E-4
+  1.2121421233158047 1.219420958272668   56.94500 1.1600056377347845  59.03000
+[INFO   ] Learning rate: 7.962355085707053E-4

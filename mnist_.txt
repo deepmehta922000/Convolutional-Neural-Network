@@ -1,0 +1,20 @@
+Log level set to INFO
+[INFO   ] inputDropoutRate: 0.2, hiddenDropoutRate: 0.5
+[INFO   ] reading image filename './datasets/train-images-idx3-ubyte' and label filename: './datasets/train-labels-idx1-ubyte
+[INFO   ] read 60000 MNIST images.
+[INFO   ] reading image filename './datasets/t10k-images-idx3-ubyte' and label filename: './datasets/t10k-labels-idx1-ubyte
+[INFO   ] read 10000 MNIST images.
+[INFO   ] Using an SVM loss function.
+[INFO   ] Starting minibatch gradient descent!
+[INFO   ] minibatch (16), mnist, svm, lr: 0.001, mu:0.9
+[INFO   ] calculating initial error and accuracy
+[INFO   ] bestError error accuracy testingError testingAccuracy
+33.318421449829934
+33.791224489795916
+ITERATION  2.3025850929941556 2.3025850929941556    9.87167 2.3025850929940703   9.80000
+[INFO   ] Learning rate: 9.75E-4
+  1.572452591128197 1.572452591128197   41.98500 acc 1.558934084532864  42.77000
+[INFO   ] Learning rate: 9.50625E-4
+  1.5149690004216187 1.5149690004216187   44.96833 acc 1.4901132597063493  45.58000
+[INFO   ] Learning rate: 9.26859375E-4
+  1.4821302537215975 1.4821302537215975   46.23500 acc 1.4535032634544343  47.12000
